@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">rmm</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maintenance">Maintenance</string>
+    <string name="title_activity_pdfviewer">Pdfviewer</string>
+    <string name="title_activity_faq">Faq</string>
+    <string name="title_activity_contact1">Contact1</string>
+    <string name="title_activity_contact_caleb">ContactCaleb</string>
+    <string name="title_activity_contactcarol">Contactcarol</string>
+    <string name="title_activity_contactcharles">Contactcharles</string>
+    <string name="title_activity_contactelvis">Contactelvis</string>
+    <string name="title_activity_contactheinne">Contactheinne</string>
+    <string name="title_activity_contactinge">Contactinge</string>
+    <string name="title_activity_contactjackie">Contactjackie</string>
+    <string name="title_activity_contactjustin">Contactjustin</string>
+    <string name="title_activity_contactkeith">Contactkeith</string>
+    <string name="title_activity_contactmarius">Contactmarius</string>
+    <string name="title_activity_contact_list">ContactList</string>
+</resources>

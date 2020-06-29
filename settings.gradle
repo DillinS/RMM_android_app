@@ -1,0 +1,2 @@
+rootProject.name='applogo'
+include ':app'
